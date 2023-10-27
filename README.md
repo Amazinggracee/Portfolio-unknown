@@ -56,8 +56,7 @@
 ### Key Features <a name="key-features"></a>
 
 ## APIs
-APIs used:
-- TVmaze API: data about TV series and movies.
+
 
 ## Interfaces:
 - [ ] The home page.
@@ -71,7 +70,7 @@ APIs used:
 
 <!-- LIVE DEMO AND THE DEPLOY -->
 
-## 🚀 Live Demo and video <a name="live-demo"> https://willowy-kringle-e4f8b9.netlify.app/</a>
+## 🚀 Live Demo and video <a name="live-demo"> Coming soon!!!</a>
 
 
 - [Click Here]()
